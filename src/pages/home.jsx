@@ -9,6 +9,7 @@ function home() {
     <div>
         {/*header*/}
       <Header/>
+      
       <Search/>
     <introPost/>
       <Blogs/>
